@@ -9,6 +9,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 	- Using MoonPay or Ramp Networks which are trusted XPortal providers
  - NEEDS WORK
 ## Navigate to MemeXchange
+- In your XPortal App Go to the Explorer
 - NEEDS WORK
 - [$Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
 ## Buy $INDY Tokens
