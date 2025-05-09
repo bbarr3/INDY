@@ -1,12 +1,2 @@
 # INDY
 Everything Related to $INDY
-# Using XPortal
-Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in the Google Android or Apple App Store
-## Create and Account 
-- WORK
-	- Use Referral Code: ar62vzg5ty
-		- All Proceeds will be reinvested into $INDY to accomplish our mission
-## Fund Your Account
-- Deposit 1+ EGLD into your account 
-	- Using MoonPay or Ramp Networks which are trusted XPortal providers 
-## Navigate to MemeXchange
