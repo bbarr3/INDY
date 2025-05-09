@@ -1,6 +1,8 @@
 # $INDY Memecoin for PACERS & INDY FANS!!!
 [Neismith DOG, Haliburton DOG, we got Siakam now dude😏 DOG](https://fox59.com/sports/pacers/pacers-top-bucks-in-nail-biter-at-gainbridge-fieldhouse-claim-series-lead/) 
 
+![image](https://github.com/user-attachments/assets/1fb8b721-72a1-4ecd-ab18-110b4217caea)
+
 ### 🔵 $INDY: For the People. For the Youth. For the City.
 
 **$INDY is more than a memecoin — it’s a movement.**  
@@ -20,5 +22,3 @@ Get in early. Ride the playoff hype. And be part of something real.
 This is **$INDY** — a **GOLDen token** making waves, changing lives, and bringing basketball back to the people.
 
 📣 **Get involved. Stay involved. Spread the word.**
-
-![image](https://github.com/user-attachments/assets/1fb8b721-72a1-4ecd-ab18-110b4217caea)
