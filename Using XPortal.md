@@ -12,7 +12,8 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
 - Search for MemeXchange
 - ![EnterMemeX](https://github.com/user-attachments/assets/91ceb636-2e85-47a6-891b-d99d713aa9f5)
-- [$Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
+- Hit **Trade Meme Coins**
+- Search PacersDOGECoin, scroll until you find PacersDOGECoin, or Click the [Link to $Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
 ## Buy $INDY Tokens
 - First time users should plan to invest slightly less than the max EGLD in order to cover some of the LOWEST transactional fees
 ## HODL Your Fucking $INDY
