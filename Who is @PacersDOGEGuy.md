@@ -1,4 +1,4 @@
-# Hi, im Al... Not Artifical Intelligence. Al is my name before it was cool. (L not an I - you dipass)
+# Hi, im Al... Not Artifical Intelligence. Al was my name before it was cool. (L not an I - you dipass)
 - Follow me on X [@PacersDOGEGuy](https://x.com/PacersDOGEGuy)
 - Remember when I went viral during the Bucks playoff series in 2024? I'm the ["We got Haliburton.. DOG..."](https://fox59.com/sports/pacers/pacers-top-bucks-in-nail-biter-at-gainbridge-fieldhouse-claim-series-lead/) guy
 - Yes, I am real
