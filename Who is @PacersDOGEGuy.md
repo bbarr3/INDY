@@ -10,6 +10,7 @@
   - I wanted to use this space to let you know I am not a bot or a fake person who never leaves the basement
 
   # Interact With Me
+  - Yes, I am real
   - Tweet at me (are they still called tweets?)
   - See me out at a Pacers game? Say hi
   - See me drinking booze? Say hi
