@@ -14,8 +14,6 @@ To bring **kids closer to the action**, create lasting **community impact**, and
 🚫 It’s time to **kick out the suits** and their business deals from the lower level of Bankers Life Fieldhouse.  
 🎟️ Let’s fill those seats with families, fans, and the future of Indy.
 
----
-
 ### 🏃‍♂️ Run, Don’t Walk.
 
 Get in early. Ride the playoff hype. And be part of something real.  
