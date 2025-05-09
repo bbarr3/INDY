@@ -16,7 +16,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - NEEDS WORK
 - first time users should plan to invest slightly less than the max EGLD in order to cover some of the LOWEST transactional fees
 ## HODL Your Fucking $INDY
-- [In the Meantime](https://www.youtube.com/watch?v=0lhXW1Q_e_0&ab_channel=no)
+- In the Mean Time *queue up [In the Meantime - Spacehog](https://www.youtube.com/watch?v=0lhXW1Q_e_0&ab_channel=no)
   	- Hold your coin. We are going to do some cool shit for this city y'all
   	- Follow [@PacersDOGEGuy](https://x.com/PacersDOGEGuy) on X for future rewards, events, and other community backed announcements
   	- Enjoy other features, launch your own projects, or explore other investment opportunities on this new up and coming decentralized platform using the XPortal and MemeXchange platforms!
