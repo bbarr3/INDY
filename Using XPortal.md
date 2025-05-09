@@ -8,7 +8,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - Deposit 1+ EGLD into your account 
 	- Use MoonPay or Ramp Networks which are trusted XPortal providers
    		- Sorry, another login
-- Kachow, finally you can get some fuckin' $INDY
+- Kachow, finally you can get a DOG of a memecoin, $INDY
 ## Navigate to MemeXchange
 - In your XPortal App go to the Explorer Page
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
@@ -23,6 +23,6 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
   	- Hold your coin. We are going to do some cool shit for this city y'all
   	- Follow [@PacersDOGEGuy](https://x.com/PacersDOGEGuy) on X for future rewards, events, and other community backed announcements
   	- Enjoy other features, launch your own projects, or explore other investment opportunities on this new up and coming decentralized platform using the XPortal and MemeXchange platforms!
-  	- Reach out to [@PacersDOGEGuy](https://x.com/PacersDOGEGuy) you have any other questions, to talk #YesCers, and get to know the badass human I am 
+  	- Reach out to [@PacersDOGEGuy](https://x.com/PacersDOGEGuy) you have any other questions, talk #YesCers, and get to know the badass human I am 
 ## Disclaimer
 - This is not financial advice. I am not a licensed financial advisor, and the information shared is for educational and informational purposes only. Always do your own research and consult with a certified financial professional before making any investment decisions. I am not responsible for any financial losses or actions taken based on this information.
