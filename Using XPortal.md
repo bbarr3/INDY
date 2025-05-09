@@ -12,7 +12,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - In your XPortal App Go to the Explorer
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
 - Search for MemeXchange
-- ![EnterMemeX](https://github.com/user-attachments/assets/47a1cbe8-4e1a-4645-a9e1-7d04495413f4)
+- ![EnterMemeX](https://github.com/user-attachments/assets/91ceb636-2e85-47a6-891b-d99d713aa9f5)
 - [$Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
 ## Buy $INDY Tokens
 - NEEDS WORK
