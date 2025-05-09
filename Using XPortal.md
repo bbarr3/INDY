@@ -7,7 +7,6 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 ## Fund Your Account
 - Deposit 1+ EGLD into your account 
 	- Using MoonPay or Ramp Networks which are trusted XPortal providers
- - NEEDS WORK
 ## Navigate to MemeXchange
 - In your XPortal App go to the Explorer Page
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
