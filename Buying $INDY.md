@@ -1,4 +1,4 @@
-# Using XPortal
+# Use XPortal
 Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in the Google Android or Apple App Store
 ## Create and Account 
 - Use Referral Code: ar62vzg5ty
