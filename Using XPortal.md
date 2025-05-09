@@ -3,7 +3,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 ## Create and Account 
 - Use Referral Code: ar62vzg5ty
   	- All Proceeds will be reinvested into $INDY to accomplish our mission
-- Having issues, here is the link to [XPortal Documentation](https://docs.multiversx.com/welcome/welcome-to-multiversx)
+- Having issues, feeling skeptical, or want to learn a little bit more about what you are doing? Here is the link to [XPortal Documentation](https://docs.multiversx.com/welcome/welcome-to-multiversx)
 ## Fund Your Account
 - Deposit 1+ EGLD into your account 
 	- Using MoonPay or Ramp Networks which are trusted XPortal providers
