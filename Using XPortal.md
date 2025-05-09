@@ -1,21 +1,19 @@
 # Using XPortal
 Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in the Google Android or Apple App Store
 ## Create and Account 
-- NEEDS WORK
-	- Use Referral Code: ar62vzg5ty
-		- All Proceeds will be reinvested into $INDY to accomplish our mission
+- Use Referral Code: ar62vzg5ty
+  	- All Proceeds will be reinvested into $INDY to accomplish our mission
 ## Fund Your Account
 - Deposit 1+ EGLD into your account 
 	- Using MoonPay or Ramp Networks which are trusted XPortal providers
  - NEEDS WORK
 ## Navigate to MemeXchange
-- In your XPortal App Go to the Explorer
+- In your XPortal App go to the Explorer Page
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
 - Search for MemeXchange
 - ![EnterMemeX](https://github.com/user-attachments/assets/91ceb636-2e85-47a6-891b-d99d713aa9f5)
 - [$Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
 ## Buy $INDY Tokens
-- NEEDS WORK
 - First time users should plan to invest slightly less than the max EGLD in order to cover some of the LOWEST transactional fees
 ## HODL Your Fucking $INDY
 - In the Meantime *queue up [In the Meantime - Spacehog](https://www.youtube.com/watch?v=0lhXW1Q_e_0&ab_channel=no)
