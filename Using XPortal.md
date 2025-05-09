@@ -6,7 +6,9 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - Having issues, feeling skeptical, or want to learn a little bit more about what you are doing? Here is the link to [XPortal Documentation](https://docs.multiversx.com/welcome/welcome-to-multiversx)
 ## Fund Your Account
 - Deposit 1+ EGLD into your account 
-	- Using MoonPay or Ramp Networks which are trusted XPortal providers
+	- Use MoonPay or Ramp Networks which are trusted XPortal providers
+   		- Sorry, another login
+- Kachow, finally you can get some fuckin' $INDY
 ## Navigate to MemeXchange
 - In your XPortal App go to the Explorer Page
 - ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
