@@ -44,5 +44,5 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
   	- Enjoy other features, launch your own projects, or explore other investment opportunities on this new up and coming decentralized platform using the XPortal and MemeXchange platforms!
   	- Reach out to [@PacersDOGEGuy](https://x.com/PacersDOGEGuy) you have any other questions, talk #YesCers, and get to know the badass human I am
   	  
-## Disclaimer
+# Disclaimer
 - This is not financial advice. I am not a licensed financial advisor, and the information shared is for educational and informational purposes only. Always do your own research and consult with a certified financial professional before making any investment decisions. I am not responsible for any financial losses or actions taken based on this information.
