@@ -13,13 +13,24 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
   	  	- TL;DR: It covers your transaction fees and allows you to pivot within XPortal. The conversion rate is approx $20.37 USD (5/13/25)
 	- Please check out the documentation linked above to learn more. Skeptism is real and something we aren't hiding from. So were we - do your research!
 - Kachow, finally you can get a DOG of a memecoin, $INDY
-## Navigate to MemeXchange
+## Navigate to xExchange
 - In your XPortal App go to the Explorer Page
-- ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
-- Search for MemeXchange
-- ![EnterMemeX](https://github.com/user-attachments/assets/91ceb636-2e85-47a6-891b-d99d713aa9f5)
-- Hit **Trade Meme Coins**
-- Search PacersDOGECoin, scroll until you find PacersDOGECoin, or Click the [Link to $Indy](https://memexchange.fun/meme-coins/erd1qqqqqqqqqqqqqpgq8n7gkr2pc0wm5fuq9dx98cspysyxxy5cpl6sawpywc)
+  
+	 ![FindExplore](https://github.com/user-attachments/assets/01c58397-43a9-433c-bf4d-fbec5c3aa2e6)
+  
+- Search for xExchange or find it in the Trending Section
+  
+	 ![xexchange](https://github.com/user-attachments/assets/a234e7f8-c42f-4e3b-8507-00d1416eeab8)
+
+## Find $INDY
+- Hit **Search Tokens**
+  
+ 	 ![trade](https://github.com/user-attachments/assets/e030c530-48a1-4901-9d5d-c1122274417c)
+  
+- Search INDY, PacersDOGECoin, or Click the [Link to $Indy](https://xexchange.com/explore/tokens/INDY-a78949?firstToken=EGLD&secondToken=INDY-a78949)
+  
+	 ![searchindy](https://github.com/user-attachments/assets/0a559220-f1af-476e-b951-3256413d9542)
+
 ## Buy $INDY Tokens
 - First time users should plan to invest slightly less than the max EGLD in order to cover some of the LOWEST transactional fees
 ## HODL Your Fucking $INDY
