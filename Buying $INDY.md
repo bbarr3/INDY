@@ -11,7 +11,7 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 - What is [EGLD](https://multiversx.com/about-egld)?
   	- EGLD is the native crypto currency of the MultiversX blockchain
   	  	- TL;DR: It covers your transaction fees and allows you to pivot within Xportal. The conversion rate is approx $20.37 USD (5/13/25)
-	- Please check out the documentation linked above to learn more. Skeptism is real and something we aren't hiding. Do your own research!
+	- Please check out the documentation linked above to learn more. Skeptism is real and something we aren't hiding from. So were we - do your research!
 - Kachow, finally you can get a DOG of a memecoin, $INDY
 ## Navigate to MemeXchange
 - In your XPortal App go to the Explorer Page
