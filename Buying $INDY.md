@@ -26,11 +26,9 @@ Download [XPortal](http://xportal.com/) - The Intelligent Wallet, available in t
 	 ![xexchange](https://github.com/user-attachments/assets/a234e7f8-c42f-4e3b-8507-00d1416eeab8)
 
 ## Find $INDY Token
-- Hit **Search Tokens**
+- Search INDY, PacersDOGECoin, or Click the [Link to $Indy](https://xexchange.com/explore/tokens/INDY-a78949?firstToken=EGLD&secondToken=INDY-a78949)
   
  	 ![trade](https://github.com/user-attachments/assets/e030c530-48a1-4901-9d5d-c1122274417c)
-  
-- Search INDY, PacersDOGECoin, or Click the [Link to $Indy](https://xexchange.com/explore/tokens/INDY-a78949?firstToken=EGLD&secondToken=INDY-a78949)
   
 	 ![searchindy](https://github.com/user-attachments/assets/0a559220-f1af-476e-b951-3256413d9542)
 
