@@ -1,4 +1,4 @@
-# $INDY Memecoin for PACERS & INDY FANS!!!
+# [$INDY Memecoin](https://xexchange.com/explore/tokens/INDY-a78949?firstToken=EGLD&secondToken=INDY-a78949) for PACERS & INDY FANS!!!
 [Neismith DOG, Haliburton DOG, we got Siakam now dude😏 DOG](https://fox59.com/sports/pacers/pacers-top-bucks-in-nail-biter-at-gainbridge-fieldhouse-claim-series-lead/) 
 
 ![image](https://github.com/user-attachments/assets/1fb8b721-72a1-4ecd-ab18-110b4217caea)
